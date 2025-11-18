@@ -9,3 +9,5 @@ else:
             is_prime = False
             break
     print(is_prime)
+
+Thisnis the code for prime number check
