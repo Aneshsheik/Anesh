@@ -1,3 +1,11 @@
-I am adding some data to see how fetch will work
-
-But i didn't get the desired outpu
+I am adding some data to see how fetch will 
+n = 11
+if n <= 1:
+    print(False)
+else:
+    is_prime = True  # Flag variable
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            is_prime = False
+            break
+    print(is_prime)
