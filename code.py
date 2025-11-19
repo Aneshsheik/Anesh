@@ -12,4 +12,6 @@ else:
 
 Thisnis the code for prime number check
 Lets see whether it is worked 
-Still not worked :(
+
+Have changed tme in both Git and Jenkins, lets see 
+
